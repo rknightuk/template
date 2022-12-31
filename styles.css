@@ -1,0 +1,9 @@
+:root {
+    /* --links: #ff00ff; */
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        /* --links: #ff00ff; */
+    }
+}
